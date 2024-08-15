@@ -1,12 +1,15 @@
-## Hi there 👋
+## Bienvenido al proyecto 👋 GEN
 
-<!--
+GEN es una Applicación para `Couching`
 
-**Here are some ideas to get you started:**
+✅ 7 niveles
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✅ se puede meter n personas por nivel
+
+             n1
+       n2 n2 n2
+     n3 n3 n3 
+
+⚠️ Si a mi me invitan bajo mi piramide puedo volver a entrar?
+
+
