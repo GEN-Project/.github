@@ -126,7 +126,15 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 
 |Descripcion|Forma de pago|Monto|
 |-|-|-|
-|Desarrollo|Un solo pago|$us.7.000|
+|Diseño de interfaz UI/UX|Un solo pago|$us.800|
+|Configuracion de servidores|Un solo pago|$us.1.000|
+|Inicio de desarrollo|Un solo pago|$us.1.200|
+|Beta 1|Un solo pago|$us.1.500|
+|Pruebas 1|Un solo pago|$us.500|
+|Beta 2|Un solo pago|$us.1.500|
+|Pruebas 2|Un solo pago|$us.500|
+|Salida a producción|Un solo pago|$us.1.000|
+
 
 ### Costo de mantenimiento
 
@@ -136,8 +144,13 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 |Storage Video|Mensual|$us.300|
 
 
+`El costo de mantenimiento incluye un equipo de desarrolladores para resolver problemas de bugs.`
+
 ---
 
 ## 8. Consideraciones Finales
 
-El éxito del proyecto GEN dependerá de la correcta implementación de cada uno de los componentes planificados y de la capacidad del equipo para adaptarse a las necesidades emergentes durante el proceso de desarrollo. La satisfacción del usuario y la seguridad serán pilares fundamentales en la ejecución de este proyecto.
+El éxito del proyecto GEN dependerá de la correcta implementación de cada uno de los componentes planificados y de la capacidad del equipo para adaptarse a las necesidades emergentes durante el proceso de desarrollo. La satisfacción del usuario y la seguridad serán pilares fundamentales en la ejecución de este proyecto. Al mismo tiempo la puntualidad de los pagos para evitar perder el ritmo de tiempos de la entraga final.
+
+
+ 
