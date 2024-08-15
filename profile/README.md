@@ -2,8 +2,11 @@
 
 ---
 
+
 ## 1. Resumen del Proyecto
 La aplicación GEN es una plataforma diseñada para gestionar programas de coaching con una estructura de niveles y comisiones, permitiendo la inscripción de alumnos y el manejo de pagos de manera eficiente. La aplicación soportará múltiples idiomas para ofrecer contenido de video adaptado a usuarios de diferentes regiones.
+
+![image](https://github.com/user-attachments/assets/1026ad04-58e4-4d88-8f10-d0ed72c557b8)
 
 
 
@@ -42,6 +45,8 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
   - Interfaz que permita a los usuarios seleccionar el idioma de preferencia.
   - Gestión de contenido multilingüe para garantizar una experiencia de usuario fluida.
 
+
+
 ---
 
 ## 4. Requerimientos No Funcionales
@@ -60,6 +65,9 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
   - La aplicación debe estar disponible en plataformas web y móviles (iOS y Android).
 
 ---
+
+![image](https://github.com/user-attachments/assets/f8c779c5-87fb-406c-b778-b4d4179e6580)
+
 
 ## 5. Cronograma Tentativo
 
