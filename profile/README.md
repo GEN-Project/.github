@@ -126,14 +126,14 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 
 |Descripcion|Forma de pago|Monto|
 |-|-|-|
-|Desarrollo|Un solo pago|$us 7.000|
+|Desarrollo|Un solo pago|$us.7.000|
 
 ### Costo de mantenimiento
 
 |Descripcion|Forma de pago|Monto|
 |-|-|-|
-|Servidores|Mensual|$us 300|
-|Storage Video|Mensual|$us 300|
+|Servidores|Mensual|$us.300|
+|Storage Video|Mensual|$us.300|
 
 
 ---
