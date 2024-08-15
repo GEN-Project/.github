@@ -4,20 +4,15 @@ GEN es una Applicación para `Couching`
 
 ✅ 7 niveles
 
-✅ se puede meter n personas por nivel
+✅ Se puede meter n personas por nivel
 
-             n1
-       n2 n2 n2
-     n3 n3 n3 
-
-⭕ Si a mi me invitan bajo mi piramide puedo volver a entrar?
-
-R.- No
+✅ Si a mi me invitan bajo mi piramide no puedo volver a entrar.
 
 ✅ Tipo de pago 
-- PayPal
-- BancoGanadero Qr
+- PayPal (1 Vez al mes)
+- BancoGanadero Qr (1 Vez al mes)
+- Al inscribir a otro alumno paga con sus creditos y guarda el efectivo.
 
 ✅ Como va a ser ulti idioma como hacer con los videos.
-- Subiran los videos en diferentes idimoas
+- Subirán los videos en diferentes idimoas.
 
