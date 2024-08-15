@@ -11,6 +11,7 @@ GEN es una Applicación para `Couching`
      n3 n3 n3 
 
 ⭕ Si a mi me invitan bajo mi piramide puedo volver a entrar?
+
 R.- No
 
 ✅ Tipo de pago 
