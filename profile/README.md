@@ -98,9 +98,12 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 ## 6. Recursos Necesarios
 
 - **Equipo de Desarrollo:**
-  - Desarrolladores Full-Stack.
   - Diseñadores UI/UX.
+  - Desarrolladores Front-end.
+  - Desarrolladores Back-end.
+  - Especialidas en Base de datos y Sql.
   - Especialista en seguridad.
+  - Consultor de integraciones API
 
 - **Herramientas de Desarrollo:**
   - React Native para aplicaciones móviles y web.
@@ -118,9 +121,18 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 
 ## 7. Presupuesto
 
+### Costo de desarrollo
+
 |Hola|Mundo|
 |-|-|
 |sa|asd|
+
+### Costo de desarrollo
+
+|Hola|Mundo|
+|-|-|
+|sa|asd|
+
 
 ---
 
