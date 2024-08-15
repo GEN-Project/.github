@@ -2,6 +2,8 @@
 
 GEN es una Applicación para `Couching`
 
+✅ Parametrizar un % para comision y un monto de inscripcion
+
 ✅ 7 niveles
 
 ✅ Se puede meter n personas por nivel
