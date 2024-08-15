@@ -72,7 +72,7 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 
 ## 5. Cronograma Tentativo
 
-- **Fase 1: Análisis y Planificación**(Una reunion)
+- **Fase 1: Análisis y Planificación**(Primer reunion)
   - Reunión con stakeholders para definir requisitos detallados.
   - Elaboración del plan de proyecto y cronograma.
 
@@ -80,12 +80,12 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
   - Diseño de la arquitectura de software.
   - Diseño de la interfaz de usuario y experiencia (UI/UX).
 
-- **Fase 3: Desarrollo** (8 semanas)
+- **Fase 3: Desarrollo** (2 meses)
   - Desarrollo de la parametrización de comisiones y gestión de niveles.
   - Integración de sistemas de pago.
   - Implementación del soporte multilingüe.
 
-- **Fase 4: Pruebas y Ajustes** (4 semanas)
+- **Fase 4: Pruebas y Ajustes** (1 mes)
   - Pruebas unitarias, de integración y de usuario.
   - Ajustes según retroalimentación.
 
