@@ -20,7 +20,8 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 - **Gestión de Pagos:** Integrar métodos de pago como PayPal y BancoGanadero QR, con la posibilidad de procesar los pagos una vez al mes.
 - **Soporte Multilingüe:** Implementar un sistema que permita subir videos en diferentes idiomas para satisfacer a una audiencia global.
 
-![image](https://github.com/user-attachments/assets/16e5a73e-8d12-40d3-aca6-95b5e29e2fc1)
+![image](https://github.com/user-attachments/assets/11df924a-a5ec-4123-b628-35f1c5547ebe)
+
 
 ---
 
