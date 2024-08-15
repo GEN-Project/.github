@@ -10,6 +10,13 @@ GEN es una Applicación para `Couching`
        n2 n2 n2
      n3 n3 n3 
 
-⚠️ Si a mi me invitan bajo mi piramide puedo volver a entrar?
+⭕ Si a mi me invitan bajo mi piramide puedo volver a entrar?
+R.- No
 
+✅ Tipo de pago 
+- PayPal
+- BancoGanadero Qr
+
+✅ Como va a ser ulti idioma como hacer con los videos.
+- Subiran los videos en diferentes idimoas
 
