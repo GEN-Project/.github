@@ -103,19 +103,24 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
   - Especialista en seguridad.
 
 - **Herramientas de Desarrollo:**
-  - Frameworks como React Native para aplicaciones móviles.
-  - Backend en Node.js con base de datos MongoDB o PostgreSQL.
+  - React Native para aplicaciones móviles y web.
+  - Backend en Java.
+  - Base de datos PostgreSQL.
   - Integración con API de PayPal y BancoGanadero QR.
+  - Servidores Linux con Docker
 
 - **Infraestructura:**
-  - Servidores para hosting y base de datos.
-  - Sistema de almacenamiento seguro para videos en diferentes idiomas.
+  - Servidores para hosting y base de datos locales.
+  - Sistema de almacenamiento seguro para videos en diferentes idiomas local.
+  - Firewall para asegurar la seguridad de la información.
 
 ---
 
 ## 7. Presupuesto
 
-El presupuesto estimado incluirá los costos de desarrollo, diseño, pruebas, infraestructura, y posibles costos de licencias y comisiones de plataformas de pago. Un análisis detallado se realizará durante la fase de planificación.
+|Hola|Mundo|
+|-|-|
+|sa|asd|
 
 ---
 
