@@ -143,7 +143,7 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 |Servidores|Mensual|$us.300|
 |Storage Video|Mensual|$us.300|
 |Pasarela Qr|Transacción|1%|
-|PayPal|Transacción|1%|
+|PayPal|Transacción|[paypal-fees](https://www.paypal.com/bo/webapps/mpp/paypal-fees)|
 
 
 `El costo de mantenimiento incluye un equipo de desarrolladores para resolver problemas de bugs.`
