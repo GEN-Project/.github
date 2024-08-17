@@ -136,6 +136,15 @@ La aplicación GEN es una plataforma diseñada para gestionar programas de coach
 |Salida a producción|Un solo pago|$us.1.000|
 |**Total**||$us.8.000|
 
+`Distribuido en 4 pagos`
+
+|Descripcion|Forma de pago|Monto|
+|-|-|-|
+|Pago para iniciar el desarrollo|$us.2000|⚠️|
+|Cuota 2|$us.2000|⚠️|
+|Cuota 3|$us.2000|⚠️|
+|Pago final|$us.2000|⚠️|
+
 `Si se realiza el primer deposito antes del 30 de Agosto de 2024 se le realizará un descuento de $500.`
 
 ### Costo de mantenimiento
